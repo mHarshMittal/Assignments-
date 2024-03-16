@@ -1,0 +1,25 @@
+Q1- Explain these terms with an example:
+Artificial Intelligence: It's when machines can do smart things, like recognizing speech or driving cars.
+Machine Learning: It's when machines learn from data. For example, predicting if an email is spam or not.
+Deep Learning: It's a type of machine learning inspired by how our brains work. For instance, recognizing objects in images.
+
+Q2- What is supervised learning? Give some examples.
+Supervised learning is like teaching a computer with labeled examples. For instance, showing it pictures of cats and dogs and telling which is which. Examples include predicting house prices or classifying emails as spam or not.
+
+Q3- What is unsupervised learning? Give some examples.
+Unsupervised learning is when the computer learns from data without being told what to look for. It might group similar things together. Examples include organizing news articles into topics or identifying patterns in customer data.
+
+Q4- What's the difference between AI, ML, DL, and DS?
+AI is like the whole idea of computers being smart. Machine Learning is a part of AI where computers learn from data. Deep Learning is a fancy kind of Machine Learning inspired by the brain. DS stands for Data Science, which is the overall field of studying and making sense of data.
+
+Q5- What are the main differences between supervised, unsupervised, and semi-supervised learning?
+Supervised learning uses labeled data to teach the computer. Unsupervised learning doesn't have labels, it learns on its own. Semi-supervised learning is a mix, where some data is labeled and some isn't.
+
+Q6- What is train, test, and validation split? Why are they important?
+Train data is used to teach the computer, test data is used to see how well it learned, and validation data helps adjust the model to perform better. They're important to make sure the model works well on new, unseen data.
+
+Q7- How can unsupervised learning be used in anomaly detection?
+Unsupervised learning can find unusual patterns in data, so it can detect anomalies like fraud in transactions or unusual behavior in systems.
+
+Q8- List some commonly used supervised and unsupervised learning algorithms.
+Common supervised learning algorithms include Decision Trees, Random Forests, and Support Vector Machines. For unsupervised learning, popular ones are K-means clustering and Principal Component Analysis (PCA).
